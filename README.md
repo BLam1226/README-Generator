@@ -21,6 +21,10 @@
 ## Usage
 answer the displayed questions using the terminal which will then generate a README file based on the answers received.
 
+https://github.com/BLam1226/README-Generator/assets/127125695/5e96d83b-08cd-49f9-8a16-2ce52d24aa9a
+![Screenshot 2023-07-29 035106](https://github.com/BLam1226/README-Generator/assets/127125695/5db6ea87-5bf4-4886-b703-a25f4b74d23e)
+![Screenshot 2023-07-29 035126](https://github.com/BLam1226/README-Generator/assets/127125695/073bf142-1f96-4273-83f1-90e6591c9477)
+
 ## Contributing
 no idea
 
